@@ -1,4 +1,4 @@
-# 👨‍💻 Roy Lennic Mwavita – Monitoring & Evaluation Officer
+# 👨‍💻 Roy Lennic Mwavita – M&E | Data Analyst
 
 I’m a results-driven Data Analyst with over 2 years of experience managing and visualizing data in donor-funded health and humanitarian programs (USAID, PEPFAR). Adept in cleaning and structuring complex datasets, automating reports, and developing interactive dashboards using Excel, Power BI, R Markdown and R Shiny. Proven ability to manage monthly and quarterly KPI reporting, create storytelling dashboards, and maintain data systems to support strategic decision-making. Passionate about using data to improve immunization coverage and public health impact in crisis contexts.
 
