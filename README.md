@@ -28,8 +28,8 @@ If you’re exploring impactful work involving data and social good, let’s con
 
 - **Preventive Services Tracker**: R Shiny dashboard to validate session attendance (↑85% accuracy) https://roymwavita.shinyapps.io/preventive_analyzer/
 - **OVC Analyzer**: Flagged duplicate/overage beneficiaries, reducing registration errors by 90% https://roymwavita.shinyapps.io/preventive_analyzer/
-- **Epidemic Control Dashboard**: Visualized UNAIDS 95-95-95 cascade for targeted interventions
-- **Performance Trends Dashboard**: Time-series analysis of birth certificate and case plan data
+- **PowerBI Dashboard**: (https://github.com/roy-mwavita0/powerbi-hr-insights/blob/main/README.md)
+
 
 ---
 
