@@ -27,7 +27,7 @@ If you’re exploring impactful work involving data and social good, let’s con
 ## 📊 Projects & Dashboards
 
 - **Preventive Services Tracker**: R Shiny dashboard to validate session attendance (↑85% accuracy) https://roymwavita.shinyapps.io/preventive_analyzer/
-- **OVC Analyzer**: Flagged duplicate/overage beneficiaries, reducing registration errors by 90% https://roymwavita.shinyapps.io/preventive_analyzer/
+- **OVC Analyzer**: Flagged duplicate/overage beneficiaries, reducing registration errors by 90% [https://roymwavita.shinyapps.io/preventive_analyzer/](https://github.com/roy-mwavita0/ovc-comprehensive-analyzer)
 - **PowerBI Dashboard**: (https://github.com/roy-mwavita0/powerbi-hr-insights/blob/main/README.md)
 
 
