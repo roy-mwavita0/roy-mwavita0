@@ -1,4 +1,4 @@
-# 👨‍💻 Roy Lennic Mwavita – M&E | Data Analyst
+# 👨‍💻 Roy Mwavita – M&E | Data Analyst
 
 I’m a results-driven Data Analyst with over 2 years of experience managing and visualizing data in donor-funded health and humanitarian programs (USAID, PEPFAR). Adept in cleaning and structuring complex datasets, automating reports, and developing interactive dashboards using Excel, Power BI, R Markdown and R Shiny. Proven ability to manage monthly and quarterly KPI reporting, create storytelling dashboards, and maintain data systems to support strategic decision-making. Passionate about using data to improve immunization coverage and public health impact in crisis contexts.
 
@@ -33,42 +33,17 @@ If you’re exploring impactful work involving data and social good, let’s con
 
 ---
 
-<h3 align="left">🧰 Languages and Tools:</h3>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-        <br/>Python
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.r-project.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="R" />
-        <br/>R
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" />
-        <br/>SQL
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://powerbi.microsoft.com/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI" />
-        <br/>Power BI
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.kobotoolbox.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/kobotoolbox/kobotoolbox/main/kobotoolbox/static/img/favicon.png" width="40" height="40" alt="KoboCollect" />
-        <br/>KoboCollect
-      </a>
-    </td>
-  </tr>
-</table>
+## 🧰 Languages and Tools – Proficiency Overview
+
+| Tool         | Proficiency |
+|--------------|-------------|
+| Python       | ██████ 60% |
+| R (Shiny, Markdown)    | ████████ 80% |
+| SQL          | ██████ 60% |
+| Power BI     | ███████ 70% |
+| KoboCollect   | █████████ 90% |
+
 
 
 ---
