@@ -31,9 +31,10 @@ If you’re exploring impactful work involving data and social good, let’s con
 ---
 ## 📊 Projects & Dashboards
 
-- **OVC Analyzer**: Flagged duplicate/overage beneficiaries, reducing registration errors by 90% (https://github.com/roy-mwavita0/ovc-comprehensive-analyzer)
-- **PowerBI Dashboard**: (https://github.com/roy-mwavita0/powerbi-hr-insights/blob/main/README.md)
-- **Preventive Services Tracker**: R Shiny dashboard to validate session attendance (↑85% accuracy) https://roymwavita.shinyapps.io/preventive_analyzer/
+- [**Global Tuberculosis (TB) Dashboard**: An interactive R Shiny dashboard to analyze and visualize Tuberculosis (TB) trends globally, using population-normalized metrics and WHO data.](https://github.com/roy-mwavita0/global-tuberculosis-dashboard/)
+- [**OVC Analyzer**: Flagged duplicate/overage beneficiaries, reducing registration errors by 90%](https://github.com/roy-mwavita0/ovc-comprehensive-analyzer)
+- [**PowerBI Dashboard**](https://github.com/roy-mwavita0/powerbi-hr-insights/blob/main/README.md)
+- [**Preventive Services Tracker**: R Shiny dashboard to validate session attendance (↑85% accuracy)](https://roymwavita.shinyapps.io/preventive_analyzer/)
 
 
 ---
