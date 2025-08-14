@@ -7,7 +7,6 @@ decision-making and program performance.
 
 Adept in cleaning and structuring complex datasets, automating reports, and developing interactive dashboards using Excel, Power BI, R Markdown and R Shiny. Proven ability to manage monthly and quarterly KPI reporting, create storytelling dashboards, and maintain data systems to support strategic decision-making. 
 
-🌍 [Visit my portfolio](https://roy-mwavita0.github.io/portfolio/roy_mwavita)
 
 ---
 
