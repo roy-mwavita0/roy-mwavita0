@@ -34,6 +34,7 @@ If you’re exploring impactful work involving data and social good, let’s con
 - [**OVC Comprehensive Analyzer**: Flagged duplicate/overage beneficiaries, reducing registration errors by 90%](https://github.com/roy-mwavita0/ovc-comprehensive-analyzer)
 - [**PowerBI Dashboard**: Smart HR Insights dashboard — a data-driven exploration of key Human Resource strategies through impactful visualizations.](https://github.com/roy-mwavita0/powerbi-hr-insights/blob/main/README.md)
 - [**OVC Preventive Dashboard**: R Shiny dashboard to validate session attendance (↑85% accuracy)](https://github.com/roy-mwavita0/ovc_preventive_dashboard/)
+- [**OVC CPARA Assessment Dashboard**(https://github.com/roy-mwavita0/ovc_cpara_assessment/blob/main/README.md)
 
 
 ---
