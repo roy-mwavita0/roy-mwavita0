@@ -25,7 +25,7 @@ I’m actively expanding my skills in **data analysis and data science**, with a
 
 If you’re exploring impactful work involving data and social good, let’s connect!
 
-I document my learning journey on this LinkedIn newsletter: [**Significant Figures**(https://www.linkedin.com/newsletters/7411408742019366913/)]
+I document my learning journey on this LinkedIn newsletter: [**Significant Figures**](https://www.linkedin.com/newsletters/7411408742019366913/)
 
 ---
 ## 📊 Projects & Dashboards
@@ -59,7 +59,7 @@ I document my learning journey on this LinkedIn newsletter: [**Significant Figur
 
 - 📧 Email: lennicroy@gmail.com  
 - 🌐 LinkedIn: [linkedin.com/in/roy-mwavita-495b50220](https://linkedin.com/in/roy-mwavita-495b50220)
-- Phone: [+254794395145]
+- Phone/WhatsApp: [+254794395145]
 
 ---
 
