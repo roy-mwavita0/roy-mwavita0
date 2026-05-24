@@ -1,67 +1,202 @@
-# 👨‍💻 Roy Mwavita – M&E | Data Analyst
+# 👨‍💻 Roy Mwavita  
+### MEAL | Data Analytics | Applied Research
 
-I’m a results-driven M&E professional with over 2 years of experience in leveraging data to improve health, OVC, and youth programming under USAID and PEPFAR. Proficient in end-to-end data workflows from digital field collection to analysis and dashboard reporting. 
-
-Strong background in transforming messy, community-based data into actionable insights that enhance 
-decision-making and program performance.
-
-Adept in cleaning and structuring complex datasets, automating reports, and developing interactive dashboards using Excel, Python, R Markdown and R Shiny. Proven ability to manage monthly and quarterly KPI reporting, create storytelling dashboards, and maintain data systems to support strategic decision-making. 
-
-
----
-## 🔧 Core Skills & Tools
-
-- **Monitoring & Evaluation**: MEAL frameworks, DQAs, performance tracking
-- **Data Analysis**: R, Python, SQL, Excel
-- **Data Collection**: KoboCollect, ODK, CPIMS
-- **Visualization**: Power BI, R Shiny, Tableau
-- **Reporting**: Learning briefs, dashboards, donor reports
-- **Capacity Building**: Peer learning, training facilitation, stakeholder engagement
-
----
-## 🚀 Current Focus
-
-I’m actively expanding my skills in **data analysis and data science**, with a focus on building scalable systems for humanitarian impact. I enjoy collaborative learning and welcome opportunities to work on open-source projects, analytical challenges, or research initiatives.
-
-If you’re exploring impactful work involving data and social good, let’s connect!
-
-I document my learning journey on this LinkedIn newsletter: [**Significant Figures**](https://www.linkedin.com/newsletters/7411408742019366913/)
-
----
-## 📊 Projects & Dashboards
-
-- [**Global Tuberculosis (TB) Dashboard**: An interactive R Shiny dashboard to analyze and visualize Tuberculosis (TB) trends globally, using population-normalized metrics and WHO data.](https://github.com/roy-mwavita0/global-tuberculosis-dashboard/)
-- [**OVC Comprehensive Analyzer**: Flagged duplicate/overage beneficiaries, reducing registration errors by 90%](https://github.com/roy-mwavita0/ovc-comprehensive-analyzer)
-- [**PowerBI Dashboard**: Smart HR Insights dashboard — a data-driven exploration of key Human Resource strategies through impactful visualizations.](https://github.com/roy-mwavita0/powerbi-hr-insights/blob/main/README.md)
-- [**OVC Preventive Dashboard**: R Shiny dashboard to validate session attendance (↑85% accuracy)](https://github.com/roy-mwavita0/ovc_preventive_dashboard/)
-- [**OVC CPARA Assessment Dashboard**](https://github.com/roy-mwavita0/ovc_cpara_assessment/blob/main/README.md)
-- [**National Electronic Injury Surveillance System (NEISS) 2024**: Data wrangling and EDA](https://github.com/roy-mwavita0/neiss_2024_data_wrangling/tree/main)
-
+📍 Kenya  
+📧 lennicroy@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/roy-mwavita-495b50220)  
+💻 [GitHub](https://github.com/roy-mwavita0)
 
 ---
 
+## 🚀 About Me
 
-## 🧰 Languages and Tools – Proficiency Overview
+Results-driven Monitoring, Evaluation, Accountability & Learning (MEAL) professional with 3+ years of experience supporting humanitarian, research, and USAID-funded programs across Kenya.
 
-| Tool         | Proficiency |
-|--------------|-------------|
-| Python       | ██████ 60% |
-| R (Shiny, Markdown)    | ████████ 80% |
-| SQL          | ██████ 60% |
-| Power BI     | ███████ 70% |
-| KoboCollect   | █████████ 90% |
+✔ Improved reporting efficiency by **40%**  
+✔ Reduced manual data validation workload by **60%**  
+✔ Supported monitoring systems for **6,500+ beneficiaries**  
+✔ Built dashboards, automated reports, and data validation systems
 
-
+I specialize in transforming messy community and research data into actionable insights that strengthen evidence-based decision-making, accountability, and program impact.
 
 ---
 
-## 📫 Contact
+# 🔧 Core Skills
 
-- 📧 Email: lennicroy@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/roy-mwavita-495b50220](https://linkedin.com/in/roy-mwavita-495b50220)
-- Phone/WhatsApp: [+254794395145]
+### 📊 Monitoring, Evaluation & Learning
+- MEAL Frameworks
+- Data Quality Assessments (DQA)
+- Indicator Tracking
+- Reporting Automation
+- Performance Monitoring
+- Learning Reviews
+- Evidence-Based Programming
+
+### 📈 Data Analysis & Visualization
+- R Programming
+- Python
+- Excel
+- SQL
+- Power BI
+- R Shiny
+- Dashboard Development
+- Exploratory Data Analysis
+
+### 📱 Digital Data Collection
+- KoboToolbox
+- ODK
+- REDCap
+- XLSForm
+- Mobile Data Collection
+- Survey Design & Validation
 
 ---
 
-> “Data is not just numbers — it’s a story waiting to be told. I help programs listen.”
+# 🧰 Tools & Proficiency
 
+| Tool | Proficiency |
+|------|-------------|
+| KoboToolbox | █████████ 90% |
+| ODK | █████████ 90% |
+| R & R Shiny | ████████ 80% |
+| Excel | ████████ 80% |
+| REDCap | ████████ 80% |
+| Power BI | ███████ 70% |
+| Python | ██████ 60% |
+| SQL | ██████ 60% |
+
+---
+
+# 📊 Featured Projects
+
+## 🌍 Global Tuberculosis Dashboard
+Interactive R Shiny dashboard analyzing global TB trends using WHO datasets and population-normalized metrics.
+
+### Key Features
+- Trend visualization
+- Country comparison
+- Interactive filtering
+- Public health analytics
+
+**Tools:** `R Shiny` `ggplot2` `WHO Data`
+
+🔗 Repository: [global-tuberculosis-dashboard](https://github.com/roy-mwavita0/global-tuberculosis-dashboard)
+
+---
+
+## 👨‍👩‍👧 OVC Comprehensive Dashboard
+Quality-focused dashboard designed to strengthen OVC data integrity and case monitoring systems.
+
+### Impact
+✔ Reduced duplicate and overage registration errors by **90%**
+
+### Features
+- Duplicate detection
+- Validation checks
+- Service gap monitoring
+- Case quality flags
+
+**Tools:** `R Shiny` `Data Validation`
+
+🔗 Repository: [ovc-comprehensive-analyzer](https://github.com/roy-mwavita0/ovc-comprehensive-analyzer)
+
+---
+
+## 📋 OVC Preventive Dashboard
+R Shiny dashboard validating attendance and preventive service delivery in community programs.
+
+### Impact
+✔ Improved attendance validation accuracy by **85%**
+
+**Tools:** `R Shiny` `Program Monitoring`
+
+---
+
+## 🏥 NEISS 2024 Data Wrangling
+Exploratory data analysis project investigating national injury patterns using NEISS datasets.
+
+### Focus Areas
+- Data wrangling
+- Cleaning & transformation
+- Injury trend analysis
+- Visualization
+
+**Tools:** `Python` `Pandas` `Matplotlib`
+
+🔗 Repository: [neiss_2024_data_wrangling](https://github.com/roy-mwavita0/neiss_2024_data_wrangling)
+
+---
+
+# 📦 Current Project: validationcheck
+
+## Smarter Data Validation for MEAL & Research Teams
+
+Currently building an R package called **`validationcheck`** to automate repetitive data quality checks in humanitarian and research workflows.
+
+### Planned Features
+✔ Duplicate detection  
+✔ Missing value checks  
+✔ Date validation logic  
+✔ Range validation  
+✔ Inclusion & exclusion rules  
+✔ Automated QA pipelines  
+
+### Example
+
+```r
+check_data(
+  data = df,
+  columns = c("age", "visit_date"),
+  checks = list(
+    greater_than(0),
+    range_between(0, 120),
+    duplicates(),
+    include(c("Male", "Female"))
+  )
+)
+```
+
+### Vision
+To simplify data quality assurance and improve reporting reliability across development and research programs.
+
+🔗 Repository: [validationcheck](https://github.com/roy-mwavita0/validationcheck)
+
+---
+
+# ✍️ Learning Journey
+
+## 📖 Significant Figures Newsletter
+
+I document my growth and reflections in:
+- Data analytics
+- MEAL systems
+- Dashboard development
+- Humanitarian data
+- Research workflows
+- Learning R & data science
+
+🔗 Follow on LinkedIn
+
+---
+
+# 🌍 Professional Interests
+
+- Humanitarian Analytics
+- Child Protection Systems
+- Public Health Research
+- Research for Development
+- Data Quality Automation
+- Sustainable Development
+- Community-Centered Evidence Systems
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** lennicroy@gmail.com  
+🔗 **LinkedIn:** [roy-mwavita-495b50220](https://linkedin.com/in/roy-mwavita-495b50220)  
+💻 **GitHub:** [roy-mwavita0](https://github.com/roy-mwavita0)
+
+---
+
+> *“Data is not just numbers — it’s a story waiting to be told. I help programs listen.”*
