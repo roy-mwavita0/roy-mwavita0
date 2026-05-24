@@ -1,5 +1,5 @@
 # 👨‍💻 Roy Mwavita  
-### MEAL | Data Analytics | Applied Research
+### Monitoring and Evaluation | Data Analytics | Applied Research
 
 📍 Kenya  
 📧 lennicroy@gmail.com  
