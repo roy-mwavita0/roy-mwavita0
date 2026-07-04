@@ -73,11 +73,6 @@ https://roymwavita.shinyapps.io/myjobmag_webscraping/
 
 ---
 
-## 📈 GitHub Statistics
-
-![Roy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roy-mwavita0&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=roy-mwavita0&layout=compact)
 
 ---
 
