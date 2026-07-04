@@ -1,202 +1,84 @@
-# 👨‍💻 Roy Mwavita  
-### Monitoring and Evaluation | Data Analytics | Applied Research
+# Hi 👋, I'm Roy Mwavita
 
-📍 Kenya  
-📧 lennicroy@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/roy-mwavita-495b50220)  
-💻 [GitHub](https://github.com/roy-mwavita0)
+### Monitoring, Evaluation, Accountability & Learning (MEAL) Professional | Data Analyst | R Developer
 
----
+I'm passionate about building digital tools that strengthen monitoring systems, automate data quality, and support evidence-based decision-making in humanitarian and development programs.
 
-## 🚀 About Me
-
-Results-driven Monitoring, Evaluation, Accountability & Learning (MEAL) professional with 3+ years of experience supporting humanitarian, research, and USAID-funded programs across Kenya.
-
-✔ Improved reporting efficiency by **40%**  
-✔ Reduced manual data validation workload by **60%**  
-✔ Supported monitoring systems for **6,500+ beneficiaries**  
-✔ Built dashboards, automated reports, and data validation systems
-
-I specialize in transforming messy community and research data into actionable insights that strengthen evidence-based decision-making, accountability, and program impact.
+- 🔭 Currently developing **validationcheck** — an R package for automated data quality checks in MEAL workflows
+- 🚀 Building open-source tools for **KoboToolbox, R Shiny, data quality, and humanitarian analytics**
+- 💡 Interested in **Digital MEAL Systems, Research Analytics, AI for Development, and Decision Support Systems**
+- 💬 Ask me about **R, KoboToolbox, R Shiny, ODK, Data Quality Assessments, USAID Indicators, OVC Programming, and MEAL Systems**
+- 👨‍💻 3+ years supporting USAID-funded and humanitarian programs across Kenya
+- 📫 Reach me at **lennicroy@gmail.com**
+- 📝 I enjoy documenting practical solutions and transforming field challenges into reusable tools
 
 ---
 
-# 🔧 Core Skills
-
-### 📊 Monitoring, Evaluation & Learning
-- MEAL Frameworks
-- Data Quality Assessments (DQA)
-- Indicator Tracking
-- Reporting Automation
-- Performance Monitoring
-- Learning Reviews
-- Evidence-Based Programming
-
-### 📈 Data Analysis & Visualization
-- R Programming
-- Python
-- Excel
-- SQL
-- Power BI
-- R Shiny
-- Dashboard Development
-- Exploratory Data Analysis
-
-### 📱 Digital Data Collection
-- KoboToolbox
-- ODK
-- REDCap
-- XLSForm
-- Mobile Data Collection
-- Survey Design & Validation
+## Here a sample of a project I worked on:
+💼 **Web Scraping Dashboard (R Shiny)**  
+https://roymwavita.shinyapps.io/myjobmag_webscraping/
 
 ---
 
-# 🧰 Tools & Proficiency
+## 🤝 Connect with Me
 
-| Tool | Proficiency |
-|------|-------------|
-| KoboToolbox | █████████ 90% |
-| ODK | █████████ 90% |
-| R & R Shiny | ████████ 80% |
-| Excel | ████████ 80% |
-| REDCap | ████████ 80% |
-| Power BI | ███████ 70% |
-| Python | ██████ 60% |
-| SQL | ██████ 60% |
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)](https://roy-mwavita0.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roy%20Mwavita-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/roy-mwavita-495b50220)
+[![Email](https://img.shields.io/badge/Email-lennicroy%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lennicroy@gmail.com)
 
 ---
 
-# 📊 Featured Projects
+## 🛠 Languages & Tools
 
-## 🌍 Global Tuberculosis Dashboard
-Interactive R Shiny dashboard analyzing global TB trends using WHO datasets and population-normalized metrics.
+<p align="left">
+<a href="https://www.r-project.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="40"/>
+</a>
 
-### Key Features
-- Trend visualization
-- Country comparison
-- Interactive filtering
-- Public health analytics
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</a>
 
-**Tools:** `R Shiny` `ggplot2` `WHO Data`
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
+</a>
 
-🔗 Repository: [global-tuberculosis-dashboard](https://github.com/roy-mwavita0/global-tuberculosis-dashboard)
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+</a>
 
----
+<a href="https://posit.co/" target="_blank">
+<img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" width="40"/>
+</a>
 
-## 👨‍👩‍👧 OVC Comprehensive Dashboard
-Quality-focused dashboard designed to strengthen OVC data integrity and case monitoring systems.
-
-### Impact
-✔ Reduced duplicate and overage registration errors by **90%**
-
-### Features
-- Duplicate detection
-- Validation checks
-- Service gap monitoring
-- Case quality flags
-
-**Tools:** `R Shiny` `Data Validation`
-
-🔗 Repository: [ovc-comprehensive-analyzer](https://github.com/roy-mwavita0/ovc-comprehensive-analyzer)
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+</a>
+</p>
 
 ---
 
-## 📋 OVC Preventive Dashboard
-R Shiny dashboard validating attendance and preventive service delivery in community programs.
+## 🎯 Areas of Interest
 
-### Impact
-✔ Improved attendance validation accuracy by **85%**
-
-**Tools:** `R Shiny` `Program Monitoring`
-
----
-
-## 🏥 NEISS 2024 Data Wrangling
-Exploratory data analysis project investigating national injury patterns using NEISS datasets.
-
-### Focus Areas
-- Data wrangling
-- Cleaning & transformation
-- Injury trend analysis
-- Visualization
-
-**Tools:** `Python` `Pandas` `Matplotlib`
-
-🔗 Repository: [neiss_2024_data_wrangling](https://github.com/roy-mwavita0/neiss_2024_data_wrangling)
-
----
-
-# 📦 Current Project: validationcheck
-
-## Smarter Data Validation for MEAL & Research Teams
-
-Currently building an R package called **`validationcheck`** to automate repetitive data quality checks in humanitarian and research workflows.
-
-### Planned Features
-✔ Duplicate detection  
-✔ Missing value checks  
-✔ Date validation logic  
-✔ Range validation  
-✔ Inclusion & exclusion rules  
-✔ Automated QA pipelines  
-
-### Example
-
-```r
-check_data(
-  data = df,
-  columns = c("age", "visit_date"),
-  checks = list(
-    greater_than(0),
-    range_between(0, 120),
-    duplicates(),
-    include(c("Male", "Female"))
-  )
-)
-```
-
-### Vision
-To simplify data quality assurance and improve reporting reliability across development and research programs.
-
-🔗 Repository: [validationcheck](https://github.com/roy-mwavita0/validationcheck)
-
----
-
-# ✍️ Learning Journey
-
-## 📖 Significant Figures Newsletter
-
-I document my growth and reflections in:
-- Data analytics
-- MEAL systems
-- Dashboard development
-- Humanitarian data
-- Research workflows
-- Learning R & data science
-
-🔗 Follow on LinkedIn
-
----
-
-# 🌍 Professional Interests
-
+- MEAL Systems
+- Monitoring & Evaluation
 - Humanitarian Analytics
-- Child Protection Systems
-- Public Health Research
-- Research for Development
 - Data Quality Automation
-- Sustainable Development
-- Community-Centered Evidence Systems
+- Digital Data Collection (KoboToolbox & ODK)
+- R Shiny Dashboards
+- Research Analytics
+- Public Health Data
+- AI for Development
+- Evidence-Based Decision Making
 
 ---
 
-# 📫 Connect With Me
+## 📈 GitHub Statistics
 
-📧 **Email:** lennicroy@gmail.com  
-🔗 **LinkedIn:** [roy-mwavita-495b50220](https://linkedin.com/in/roy-mwavita-495b50220)  
-💻 **GitHub:** [roy-mwavita0](https://github.com/roy-mwavita0)
+![Roy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roy-mwavita0&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=roy-mwavita0&layout=compact)
 
 ---
 
-> *“Data is not just numbers — it’s a story waiting to be told. I help programs listen.”*
+> *"Turning data into decisions through practical, open-source MEAL solutions."*
